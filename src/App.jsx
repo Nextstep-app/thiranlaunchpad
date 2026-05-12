@@ -1,5 +1,5 @@
 import React from 'react';
-import { LanguageProvider } from './context/LanguageContext';
+import { LanguageProvider } from './LanguageContext';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Services from './components/Services';
